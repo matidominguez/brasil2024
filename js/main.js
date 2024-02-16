@@ -56,7 +56,7 @@ $(window).load(function(){
 
 
 $('#countdown').countdown({
-	date: "Mar 25 2024",
+	date: "Mar 22 2024",
 	render: function(data) {
 	  var el = $(this.el);
 	  el.empty()
